@@ -1,0 +1,14 @@
+name: "Daehyeon (Dae) Kim"
+navbar:
+  title: "Daehyeon (Dae) Kim"
+left:
+  - text: "Home"
+href: index.html
+right: 
+  - icon: fa-envelope fa-lg
+href: mailto:<daekim1224@gmail.com>
+  - icon: fa-github fa-lg
+href: http://github.com/daekim1224/
+  output:
+  html_document:
+  theme: darkly
